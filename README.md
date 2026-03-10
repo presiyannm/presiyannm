@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 
 - **Languages**: C#, JavaScript, TypeScript, C, C++, Python
-- **Back-End**: ASP.NET, .NET Core, NodeJS
+- **Back-End**: ASP.NET, NodeJS
 - **Front-End**: React
 - **Database**: Microsoft SQL Server (SSMS), POSTGRES
 - Familiar with Kali Linux
